@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Random User</string>
+    <string name="users_list_header">Users from Random Api</string>
+    <string name="users_screen_snackbar_loaded_message">Users are loaded</string>
+    <string name="users_screen_top_bar_title">Random Users</string>
+    <string name="network_error_description">A network error occurred. Check your connection or try again</string>
+    <string name="network_error_title">Network error</string>
+    <string name="network_error_retry_button_text">Retry</string>
+</resources>
